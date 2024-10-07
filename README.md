@@ -12,10 +12,10 @@ https://www.kaggle.com/datasets/whenamancodes/speed-dating
  
 
 ## Estructura del Repositorio
-- speed_dating_data: datos extraidos en el estudio en formato csv
-- exploracon_limpieza: realizamos la limpieza de la BBDD con Python, Pandas y Numpy
-- citas_rapidas: archivo csv con la BBDD limpia
-- Presentacón citas: Documento de Power BI de donde analizamos los datos obtenidos para sacar conclusiones
+- speed_dating_data: Datos extraidos en el estudio en formato csv
+- exploracon_limpieza: Realizamos la limpieza de la BBDD con Python, Pandas y Numpy
+- citas_rapidas: Archivo csv con la BBDD limpia
+- Presentación citas: Documento de Power BI de donde analizamos los datos obtenidos para sacar conclusiones
 
 
 ## Equipo
