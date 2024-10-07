@@ -11,7 +11,7 @@ Fuente de datos:
 https://www.kaggle.com/datasets/whenamancodes/speed-dating
  
 
-## Estructura del Repositorio
+# Estructura del Repositorio
 - speed_dating_data: Datos extraidos en el estudio en formato csv
 - exploracon_limpieza: Realizamos la limpieza de la BBDD con Python, Pandas y Numpy
 - citas_rapidas: Archivo csv con la BBDD limpia
